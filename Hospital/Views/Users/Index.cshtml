@@ -1,0 +1,80 @@
+﻿@model List<OA.DTO.Auths.UsersDTO>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="page-title-box d-flex align-items-center justify-content-between">
+                    <h4>User management</h4>
+                    <div class="page-title-right">
+                        <a href="@Url.Action("New", "Users")" class="btn btn-outline-info">Add</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="datatable" class="table table-bordered dt-responsive nowrap" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Name</th>
+                            <th>Address</th>
+                            <th>Gender</th>
+                            <th>Phone</th>
+                            <th>Position</th>
+                            <th>Email</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Code</td>
+                                    <td>@item.Name</td>
+                                    <td>@item.Address</td>
+                                    <td>
+                                        @if(item.Gender == 1)
+                                        {
+                                            <span>Male</span>
+                                        }
+                                        else
+                                        {
+                                            <span>Female</span>
+                                        }
+                                    </td>
+                                    <td>@item.Phone</td>
+                                    <td>
+                                        @if(item.Position == 1)
+                                        {
+                                            <span>User system</span>
+                                        }
+                                        else
+                                        {
+                                            <span>Doctor</span>
+                                        }
+                                    </td>
+                                    <td>@item.Email</td>
+                                    <td>
+                                        <a href="@Url.Action("Edit","Users", new { Id = item.Id })" role="button" class="px-2 text-primary" data-toggle="tooltip" data-placement="bottom" title="Update information">
+                                            <i class="uil uil-pen font-size-18"></i>
+                                        </a>
+                                        <a href="javascript:void(0)" onclick="ConfirmSwalMessage('@string.Format("Do you want delete <br/> [{0}]", item.Name)','', 'Agree', 'Hủy','@Url.Action("Destroy", "Users", new { Id = item.Id })')" class="px-2 text-danger" data-toggle="tooltip" data-placement="bottom" title="Delete information">
+                                            <i class="uil uil-trash-alt font-size-18"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

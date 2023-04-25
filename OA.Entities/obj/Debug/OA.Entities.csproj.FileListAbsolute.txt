@@ -1,0 +1,59 @@
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\OA.Entities.dll.config
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\OA.Entities.dll
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\OA.Entities.pdb
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\EntityFramework.dll
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\EntityFramework.xml
+D:\David\JOB\Hospital\OA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.csprojAssemblyReference.cache
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.csproj.CoreCompileInputs.cache
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.csproj.CopyComplete
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.dll
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.pdb
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.Migrations.CreateDB_2021102016340000.resources
+D:\David\JOB\Hospital\OA.Entities\obj\Debug\OA.Entities.csproj.GenerateResource.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.Initial.resources
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.GenerateResource.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.UpdateTbaleRecipience.resources
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.AssemblyReference.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.Initial.resources
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.UpdateTbaleRecipience.resources
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.GenerateResource.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CoreCompileInputs.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CopyComplete
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.pdb
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll.config
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.dll
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\OA.Entities.pdb
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.dll
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.xml
+D:\DoAnQuanLyPhongKham\OA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.AssemblyReference.cache
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.Initial.resources
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.Migrations.UpdateTbaleRecipience.resources
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.GenerateResource.cache
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.csproj.CopyComplete
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.dll
+D:\DoAnQuanLyPhongKham\OA.Entities\obj\Debug\OA.Entities.pdb

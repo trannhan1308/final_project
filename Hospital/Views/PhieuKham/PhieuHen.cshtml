@@ -1,0 +1,59 @@
+﻿@model OA.DTO.PhieuKhams.PhieuHenDTO
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="page-title-box d-flex align-items-center justify-content-between">
+                    <h4>Appointment card</h4>
+                    <div class="page-title-right">
+                        <ol class="breadcrumb m-0">
+                            <li class="breadcrumb-item">Home</li>
+                            <li class="breadcrumb-item">Appointment card</li>
+                            <li class="breadcrumb-item active">Add</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                @using (Html.BeginForm("PhieuHen", "PhieuKham", FormMethod.Post, new { @id = "form-new", @class = "form-horizontal needs-validation", @novalidate = "novalidate", @enctype = "multipart/form-data" }))
+                {
+                    <div class="mb-3 row">
+                        <label class="form-label col-md-2 col-form-label" for="ngaynhap">
+                            Re-examination date <sup class="text-danger">*</sup>
+                        </label>
+                        <div class="col-md-10 " id="datepicker2">
+                            @Html.TextBoxFor(m => m.NgayHen, new { @class = "form-control", @id = "ngaynhap", placeholder = "Re-examination date", @required = "", data_date_format = "dd-MM-yyyy", data_date_container = "#datepicker2", data_provide = "datepicker", data_date_autoclose = "true" })
+                            @Html.ValidationMessageFor(m => m.NgayHen, "Required.", new { @class = "invalid-feedback" })
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="form-label col-md-2 col-form-label" for="username">Symptom <sup class="text-danger">*</sup></label>
+                        <div class="col-md-10">
+                            @Html.HiddenFor(model => model.PatientId)
+                            @Html.TextBoxFor(m => m.TrieuChung, new { @class = "form-control", @id = "sympton", placeholder = "symptom", @required = "" })
+                            @Html.ValidationMessageFor(m => m.TrieuChung, "Required.", new { @class = "invalid-feedback", @id = "" })
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="form-label col-md-2 col-form-label" for="price">price <sup class="text-danger">*</sup></label>
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Price, new { @class = "form-control", @id = "Price", placeholder = "0", @type = "number" })
+                        </div>
+                    </div>
+
+                    <div class="mt-3 text-end">
+                        <button class="btn btn-primary w-sm waves-effect waves-light" type="submit">Save</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+﻿@model OA.DTO.KindOfSicks.KindOfSickDTO
+
+<div class="mb-3 row">
+    <label class="form-label col-md-2 col-form-label" for="username">Name <sup class="text-danger">*</sup></label>
+    <div class="col-md-10">
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", @id = "name", placeholder = "Name", @required = "" })
+        @Html.ValidationMessageFor(m => m.Name, "Required.", new { @class = "invalid-feedback" })
+    </div>
+</div>
+
+<div class="mb-3 row">
+    <label class="form-label col-md-2 col-form-label" for="address">Description<sup class="text-danger">*</sup></label>
+    <div class="col-md-10">
+        @Html.TextBoxFor(m => m.Description, new { @class = "form-control", @id = "name", placeholder = "Description", @required = "" })
+        @Html.ValidationMessageFor(m => m.Description, "Required.", new { @class = "invalid-feedback" })
+    </div>
+</div>
+
+<div class="mt-3 text-end">
+    <button class="btn btn-primary w-sm waves-effect waves-light" type="submit">Save</button>
+</div>

@@ -1,0 +1,260 @@
+D:\David\JOB\Hospital\Hospital\bin\Hospital.dll.config
+D:\David\JOB\Hospital\Hospital\bin\Hospital.dll
+D:\David\JOB\Hospital\Hospital\bin\Hospital.pdb
+D:\David\JOB\Hospital\Hospital\bin\roslyn\csc.exe
+D:\David\JOB\Hospital\Hospital\bin\roslyn\csc.exe.config
+D:\David\JOB\Hospital\Hospital\bin\roslyn\csc.rsp
+D:\David\JOB\Hospital\Hospital\bin\roslyn\csi.exe
+D:\David\JOB\Hospital\Hospital\bin\roslyn\csi.rsp
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.AppContext.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.Collections.Immutable.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.IO.FileSystem.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+D:\David\JOB\Hospital\Hospital\bin\roslyn\vbc.exe
+D:\David\JOB\Hospital\Hospital\bin\roslyn\vbc.exe.config
+D:\David\JOB\Hospital\Hospital\bin\roslyn\vbc.rsp
+D:\David\JOB\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe
+D:\David\JOB\Hospital\Hospital\bin\roslyn\VBCSCompiler.exe.config
+D:\David\JOB\Hospital\Hospital\bin\Antlr3.Runtime.dll
+D:\David\JOB\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\David\JOB\Hospital\Hospital\bin\Microsoft.Web.Infrastructure.dll
+D:\David\JOB\Hospital\Hospital\bin\Newtonsoft.Json.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Helpers.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Mvc.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Optimization.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Razor.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.Deployment.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.Razor.dll
+D:\David\JOB\Hospital\Hospital\bin\WebGrease.dll
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Helpers.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Mvc.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Optimization.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.Razor.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.Deployment.xml
+D:\David\JOB\Hospital\Hospital\bin\System.Web.WebPages.Razor.xml
+D:\David\JOB\Hospital\Hospital\bin\Newtonsoft.Json.xml
+D:\David\JOB\Hospital\Hospital\bin\Antlr3.Runtime.pdb
+D:\David\JOB\Hospital\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\David\JOB\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+D:\David\JOB\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\David\JOB\Hospital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+D:\David\JOB\Hospital\Hospital\obj\Debug\Hospital.dll
+D:\David\JOB\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\David\JOB\Hospital\Hospital\bin\OA.DTO.dll
+D:\David\JOB\Hospital\Hospital\bin\OA.DTO.pdb
+D:\David\JOB\Hospital\Hospital\bin\EntityFramework.dll
+D:\David\JOB\Hospital\Hospital\bin\EntityFramework.SqlServer.dll
+D:\David\JOB\Hospital\Hospital\bin\OA.Entities.dll
+D:\David\JOB\Hospital\Hospital\bin\OA.Entities.pdb
+D:\David\JOB\Hospital\Hospital\bin\OA.Entities.dll.config
+D:\David\JOB\Hospital\Hospital\bin\EntityFramework.xml
+D:\David\JOB\Hospital\Hospital\bin\EntityFramework.SqlServer.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Hospital.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.rsp
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.exe
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.rsp
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.AppContext.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Collections.Immutable.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.rsp
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.Web.Infrastructure.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\WebGrease.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll.config
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Hospital.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.rsp
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.exe
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.rsp
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.AppContext.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Collections.Immutable.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.rsp
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.Web.Infrastructure.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\WebGrease.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll.config
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.pdb
+D:\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll.config
+D:\DoAnQuanLyPhongKham\Hospital\bin\Hospital.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\Hospital.pdb
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.exe.config
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csc.rsp
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.exe
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\csi.rsp
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.AppContext.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.exe.config
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\vbc.rsp
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe
+D:\DoAnQuanLyPhongKham\Hospital\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\WebGrease.dll
+D:\DoAnQuanLyPhongKham\Hospital\bin\OA.DTO.pdb
+D:\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.pdb
+D:\DoAnQuanLyPhongKham\Hospital\bin\OA.Entities.dll.config
+D:\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\EntityFramework.SqlServer.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Helpers.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Mvc.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Optimization.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.Razor.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\System.Web.WebPages.Razor.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\Newtonsoft.Json.xml
+D:\DoAnQuanLyPhongKham\Hospital\bin\Antlr3.Runtime.pdb
+D:\DoAnQuanLyPhongKham\Hospital\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+D:\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.dll
+D:\DoAnQuanLyPhongKham\Hospital\obj\Debug\Hospital.pdb

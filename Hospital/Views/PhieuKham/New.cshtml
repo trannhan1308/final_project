@@ -1,0 +1,146 @@
+﻿@model OA.DTO.PhieuKhams.PhieuKhamsDTO
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="page-title-box d-flex align-items-center justify-content-between">
+                    <h4>
+                        Examination card
+                    </h4>
+                    <div class="page-title-right">
+                        <ol class="breadcrumb m-0">
+                            <li class="breadcrumb-item">Home</li>
+                            <li class="breadcrumb-item">
+                                Examination card
+                            </li>
+                            <li class="breadcrumb-item active">
+                                Add Examination card
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                @using (Html.BeginForm("New", "PhieuKham", FormMethod.Post, new { @id = "form-new", @class = "form-horizontal needs-validation", @novalidate = "novalidate", @enctype = "multipart/form-data" }))
+                {
+                    <div id="basic-example">
+                        <h3>
+                            Patient information
+                        </h3>
+                        <section>
+                            <div class="mb-3 row">
+                                <label class="form-label col-md-2 col-form-label" for="username">Name <sup class="text-danger">*</sup></label>
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Patient.Name, new { @class = "form-control", @id = "name", placeholder = "Patient name", @required = "" })
+                                    @Html.ValidationMessageFor(m => m.Patient.Name, "Required.", new { @class = "invalid-feedback", @id = "msgName" })
+                                </div>
+                            </div>
+
+                            <div class="mb-3 row">
+                                <label class="form-label col-md-2 col-form-label">Card <sup class="text-danger">*</sup></label>
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Patient.IdentityCard, new { @class = "form-control", @id = "address", placeholder = "Card", @required = "" })
+                                    @Html.ValidationMessageFor(m => m.Patient.IdentityCard, "Required.", new { @class = "invalid-feedback" })
+                                </div>
+                            </div>
+
+                            <div class="mb-3 row">
+                                <label class="form-label col-md-2 col-form-label" for="address">Address <sup class="text-danger">*</sup></label>
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Patient.Address, new { @class = "form-control", @id = "address", placeholder = "address", @required = "" })
+                                    @Html.ValidationMessageFor(m => m.Patient.Address, "Required.", new { @class = "invalid-feedback" })
+                                </div>
+                            </div>
+                        </section>
+                        <h3>Diagnostic</h3>
+                        <section>
+                            <div class="mb-3 row">
+                                <label class="form-label col-md-2 col-form-label" for="username">Symptom <sup class="text-danger">*</sup></label>
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.TrieuChung, new { @class = "form-control", @id = "TrieuChung", placeholder = "Symptom", @required = "" })
+                                    @Html.ValidationMessageFor(m => m.TrieuChung, "Required.", new { @class = "invalid-feedback", @id = "" })
+                                </div>
+                            </div>
+
+                            <div class="mb-3 row">
+                                <label class="form-label col-md-2 col-form-label" for="price">Giá <sup class="text-danger">*</sup></label>
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Price, new { @class = "form-control", @id = "Price", placeholder = "0", @type = "number" })
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <input type="hidden" id="prevBtn" name="PrevBtn" value="" />
+                    <input type="hidden" id="nextBtn" name="NextBtn" value="" />
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script src="@Url.Content("~/Contents/assets/libs/jquery-steps/build/jquery.steps.min.js")"></script>
+<script>
+    $(document).ready(function () {
+        var next = $('.actions').find("a[href$='#next']");
+        next.click(function (e) {
+            $('#nextBtn').val('true');
+        });
+        var finish = $('.actions').find("a[href$='#finish']");
+        finish.click(function (e) {
+            $('#nextBtn').val('false');
+            $('form#form-new').submit();
+        });
+    });
+
+    $("#basic-example").steps({
+        headerTag: "h3",
+        bodyTag: "section",
+        transitionEffect: "slide",
+        onStepChanging: function (event, currentIndex, newIndex) {
+            if (!validateStep1()) {
+                // alert and stop when some validation failed
+                $("#basic-example").parent('form').addClass('was-validated');
+                $('#basic-example-p-0').find('.invalid-feedback').show();
+                return false;
+            } else {
+                // proceed
+                return true;
+            }
+        },
+        onFinished: function (event, currentIndex) {
+            if (!validateStep2()) {
+                // alert and stop when some validation failed
+                $("#basic-example").parent('form').addClass('was-validated');
+                $('#basic-example-p-1').find('.invalid-feedback').show();
+                return false;
+            } else {
+                $("#basic-example").parent('form').submit();
+            }
+        }
+    })
+
+    function validateStep1() {
+        var name = $('#name').val();
+        var address = $('#address').val();
+        if (name.length == 0 || address.length == 0) {
+            return 0;
+        }
+        else {
+            return 1;
+        }
+    }
+    function validateStep2() {
+        var TrieuChung = $('#TrieuChung').val();
+        if (TrieuChung.length == 0) {
+            return 0;
+        }
+        else {
+            return 1;
+        }
+    }
+</script>

@@ -1,0 +1,37 @@
+D:\David\JOB\Hospital\OA.DTO\bin\Debug\OA.DTO.dll
+D:\David\JOB\Hospital\OA.DTO\bin\Debug\OA.DTO.pdb
+D:\David\JOB\Hospital\OA.DTO\obj\Debug\OA.DTO.csprojAssemblyReference.cache
+D:\David\JOB\Hospital\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
+D:\David\JOB\Hospital\OA.DTO\obj\Debug\OA.DTO.dll
+D:\David\JOB\Hospital\OA.DTO\obj\Debug\OA.DTO.pdb
+D:\David\JOB\Hospital\OA.DTO\bin\Debug\System.Web.Mvc.dll
+D:\David\JOB\Hospital\OA.DTO\bin\Debug\System.Web.Mvc.xml
+D:\David\JOB\Hospital\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.xml
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.dll
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.pdb
+C:\TuNx\linh ta linh tinh\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csprojAssemblyReference.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.pdb
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.xml
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.AssemblyReference.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.dll
+D:\Private\doan\doan\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.pdb
+D:\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.dll
+D:\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\OA.DTO.pdb
+D:\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.dll
+D:\DoAnQuanLyPhongKham\OA.DTO\bin\Debug\System.Web.Mvc.xml
+D:\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.AssemblyReference.cache
+D:\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CoreCompileInputs.cache
+D:\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.csproj.CopyComplete
+D:\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.dll
+D:\DoAnQuanLyPhongKham\OA.DTO\obj\Debug\OA.DTO.pdb
